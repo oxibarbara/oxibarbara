@@ -1,5 +1,9 @@
 # Barbara Scatolin
 
+<div>
+  <p>Nasci na periferia de São Paulo e estudei em escola pública toda vida. Sempre gostei de aprender. Durante o ensino médio fiz magistério, mas a área    da educação não me contemplava totalmente. Com o mundo inovando e a tecnologia se tornando um dos centros do desenvolvimento da sociedade comecei a me    interessar muito por essa área e venho aprendendo muito na Laboratória e me sentindo contemplada a cada desafio. Tenho planos em me especializar cada    vez mais na área de TI.</p>
+</div>
+
 ## Linguagens e Ferramentas:
 
 <div style="display: inline_block"><br>
